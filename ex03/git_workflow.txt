@@ -1,0 +1,20 @@
+Git Workflow
+
+1. Create or edit files.
+
+2. Check the repository status using:
+   git status
+
+3. Add the changes using:
+   git add
+
+4. Save the changes using:
+   git commit -m "Add Exercise 03 documentation"
+
+5. Upload the changes to GitHub using:
+   git push
+
+6. Check the repository status again using:
+   git status
+
+The working tree should be clean after pushing the changes.

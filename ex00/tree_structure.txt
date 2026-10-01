@@ -1,0 +1,40 @@
+.:
+total 4
+drwxr-xr-x  5 hal-nase _amman   51 Oct  1 10:40 .
+drwx------ 18 hal-nase _amman 4096 Oct  1 10:39 ..
+drwxr-xr-x  2 hal-nase _amman    6 Oct  1 10:40 archives
+drwxr-xr-x  3 hal-nase _amman   17 Oct  1 10:41 projects
+drwxr-xr-x  2 hal-nase _amman    6 Oct  1 10:40 tools
+
+./archives:
+total 0
+drwxr-xr-x 2 hal-nase _amman  6 Oct  1 10:40 .
+drwxr-xr-x 5 hal-nase _amman 51 Oct  1 10:40 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 hal-nase _amman 17 Oct  1 10:41 .
+drwxr-xr-x 5 hal-nase _amman 51 Oct  1 10:40 ..
+drwxr-xr-x 4 hal-nase _amman 37 Oct  1 10:42 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 hal-nase _amman 37 Oct  1 10:42 .
+drwxr-xr-x 3 hal-nase _amman 17 Oct  1 10:41 ..
+drwxr-xr-x 2 hal-nase _amman  6 Oct  1 10:42 backend
+drwxr-xr-x 2 hal-nase _amman  6 Oct  1 10:41 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 hal-nase _amman  6 Oct  1 10:42 .
+drwxr-xr-x 4 hal-nase _amman 37 Oct  1 10:42 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 hal-nase _amman  6 Oct  1 10:41 .
+drwxr-xr-x 4 hal-nase _amman 37 Oct  1 10:42 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 hal-nase _amman  6 Oct  1 10:40 .
+drwxr-xr-x 5 hal-nase _amman 51 Oct  1 10:40 ..
